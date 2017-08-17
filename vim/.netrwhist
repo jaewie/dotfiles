@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jw/workspace/algorithms/python/tests/collection'
+let g:netrw_dirhist_2='/Users/jw/workspace/algorithms/python/tests'
+let g:netrw_dirhist_3='/Users/jw/.todo'
+let g:netrw_dirhist_4='/Users/jw/workspace/til'
+let g:netrw_dirhist_5='/Users/jw/workspace/gobook/src/gopl.io/ch1/helloworld'
